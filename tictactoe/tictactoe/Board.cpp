@@ -85,7 +85,7 @@ bool Board::gameOver()
     bool possibleToWin=stillWinnable();
     
     if (!possibleToWin)
-        cout << "Game can't be won by either one of you fools. Let's end this right here shall we?"<<endl;
+        cout << "Game can't be won by either one of you. Let's end this right here shall we?"<<endl;
     else if (gameWonByPlayer())
     {
         if (m_plotChar=='X')
