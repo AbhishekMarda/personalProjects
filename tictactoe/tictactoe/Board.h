@@ -10,8 +10,8 @@
 #define Board_h
 
 
-const int MAX_COLS= 4;
-const int MAX_ROWS= 4;
+const int MAX_COLS= 3;
+const int MAX_ROWS= 3;
 
 class Board
 {
