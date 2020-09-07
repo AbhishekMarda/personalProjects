@@ -3,7 +3,7 @@
 #include "GraphObject.h"
 
 
-//TODO: check for why aggressive salmonella is getting stuck, overall reread the spec and understand whether any final changes have to be made. Also do documentation of the code. Lastly, remember to resubmit part 1.
+
 // Students:  Add code to this file, Actor.cpp, StudentWorld.h, and StudentWorld.cpp
 class Socrates;
 class Projectile;
